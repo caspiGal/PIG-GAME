@@ -1,12 +1,14 @@
 
-# Pig (dice game) 
+# Pig (dice game) :game_die: 
 
-Complete JavaScript Coure - Udemy
+Complete JavaScript Coure - Udemy 
 
 Play --> [Click Here](https://caspigal.github.io/PIG-GAME/).
 
 
-## Gameplay:
+## Gameplay: 
+
+:game_die:
 
  Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to “hold”:
  
@@ -14,3 +16,4 @@ Play --> [Click Here](https://caspigal.github.io/PIG-GAME/).
  - If the player rolls any other number, it is added to their turn total and the player’s turn continues.
  - If a player chooses to “hold”, their turn total is added to their score, and it becomes the next player’s turn.
  - The first player to score 100 or more points wins.
+
