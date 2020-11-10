@@ -8,7 +8,7 @@ Play --> [Click Here](https://caspigal.github.io/PIG-GAME/).
 
 ## Gameplay: 
 
-:game_die:
+:rocket:
 
  Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to “hold”:
  
@@ -16,4 +16,7 @@ Play --> [Click Here](https://caspigal.github.io/PIG-GAME/).
  - If the player rolls any other number, it is added to their turn total and the player’s turn continues.
  - If a player chooses to “hold”, their turn total is added to their score, and it becomes the next player’s turn.
  - The first player to score 100 or more points wins.
+
+![Capture](https://user-images.githubusercontent.com/33638657/98716131-bb089a80-2393-11eb-9114-4a7474959392.JPG)
+
 
