@@ -1,5 +1,5 @@
 
-# **Pig (dice game) **
+# Pig (dice game) 
 
 Complete JavaScript Coure - Udemy
 
